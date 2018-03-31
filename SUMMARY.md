@@ -4,5 +4,7 @@
 * [Общие навыки](obschie-naviki.md)
 * [Стандарты](standarti.md)
 * [Обучение](obuchenie.md)
-  * [Тестировка](obuchenie/testirovka.md)
+  * [Backend](obuchenie/backend.md)
+  * [Frontend](obuchenie/frontend.md)
+  * [Тестирование \(QA\)](obuchenie/testirovka.md)
 
