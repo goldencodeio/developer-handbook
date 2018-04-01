@@ -7,6 +7,7 @@
   * [Устройство цикла разработки](ustroistvo-tsikla-razrabotki.md)
   * [Управление задачами в Redmine](upravlenie-zadachami-v-redmine.md)
   * [Соглашение по именованию коммитов](soglashenie-po-imenovaniyu-kommitov.md)
+* [Настройка окружения](nastroika-okruzheniya.md)
 * [Стандарты](standarti.md)
 * [Обучение](obuchenie.md)
   * [Общие навыки](obschie-naviki.md)
