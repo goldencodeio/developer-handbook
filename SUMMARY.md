@@ -12,8 +12,8 @@
   * [Система контроля версий Git](nastroika-okruzheniya/sistema-kontrolya-versii-git.md)
   * [Настройка подключения к git.zolotoykod.ru](nastroika-okruzheniya/nastroika-podklyucheniya-k-gitzolotoykodru.md)
   * [Локальный сервер](nastroika-okruzheniya/lokalnii-server.md)
-  * PHPStorm
-  * Atom
+  * [PHPStorm](nastroika-okruzheniya/phpstorm.md)
+  * [Atom](nastroika-okruzheniya/atom.md)
 * [Стандарты](standarti.md)
 * [Обучение](obuchenie.md)
   * [Общие навыки](obschie-naviki.md)
