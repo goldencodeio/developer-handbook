@@ -16,7 +16,7 @@
   * [Atom](nastroika-okruzheniya/atom.md)
 * [Стандарты](standarti.md)
   * [CSS](standarti/css.md)
-  * Javascript
+  * [Javascript](standarti/javascript.md)
 * [Обучение](obuchenie.md)
   * [Общие навыки](obschie-naviki.md)
     * [Git](obschie-naviki/git.md)
