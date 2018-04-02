@@ -15,6 +15,8 @@
   * [PHPStorm](nastroika-okruzheniya/phpstorm.md)
   * [Atom](nastroika-okruzheniya/atom.md)
 * [Стандарты](standarti.md)
+  * [CSS](standarti/css.md)
+  * Javascript
 * [Обучение](obuchenie.md)
   * [Общие навыки](obschie-naviki.md)
     * [Git](obschie-naviki/git.md)
